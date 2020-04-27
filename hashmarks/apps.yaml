@@ -1,0 +1,24 @@
+hashmarks:
+  - url: /ipfs/bafybeidlrwhpvr5nfbeqnga4luhrh6gk7sa7g4sj2gxo37sxvqvj5tc2gq
+    title: IPFS peer bandwidth demo
+    description: IPFS total and per peer bandwidth stats
+    datecreated: '2020-04-23T18:00:00-00:00'
+    tags:
+      - '#dapp'
+      - '#ipfs'
+
+  - url: /ipfs/bafybeifyqfqqu4pmcjaruh3actkmow5c4ngdmyd4dbl6gx5ktgcuau4fly
+    title: IPFS QR codes demo
+    datecreated: '2020-04-23T18:00:00-00:00'
+    tags:
+      - '#dapp'
+      - '#ipfs'
+      - '#qrcode'
+
+  - url: /ipfs/bafybeib2ldbxyicytndlrw2rhyxmha2mdxwk4czvgqkmm6puketjhmkrum
+    title: IPFS Todo app demo
+    datecreated: '2020-04-23T18:00:00-00:00'
+    tags:
+      - '#dapp'
+      - '#ipfs'
+      - '#todo'

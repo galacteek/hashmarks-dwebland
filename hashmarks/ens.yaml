@@ -1,0 +1,38 @@
+hashmarks:
+  - url: ens://ethereum.eth
+    title: Ethereum's ENS website
+    category: ethereum/ens/dwebsites
+    tags:
+      - '#ens'
+      - '#ethereum'
+      - '#blockchain'
+
+  - url: ens://blog.almonit.eth
+    title: Almonit blog
+    category: ethereum/ens/dwebsites
+    tags:
+      - '#ens'
+      - '#blog'
+
+  - url: ens://almonit.eth
+    title: Almonit
+    description: Almonit decentralized search engine
+    category: ethereum/ens/dwebsites
+    tags:
+      - '#ens'
+
+  - url: ens://pepesza.eth
+    title: Paul Peregud's dwebsite
+    category: ethereum/ens/dwebsites
+    tags:
+      - '#ens'
+      - '#tech'
+      - '#software-dev'
+
+  - url: ens://badger.merklework.eth
+    title: Badger wallet
+    category: ethereum/ens/dwebsites
+    tags:
+      - '#ens'
+      - '#web3'
+      - '#wallet'

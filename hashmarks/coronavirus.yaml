@@ -1,0 +1,25 @@
+hashmarks:
+  - url: /ipfs/bafykbzaced4xstofs4tc5q4irede6uzaz3qzcdvcb2eedxgfakzwdyjnxgohq
+    title: Coronavirus papers
+    description: >
+      Collection of research papers on various
+      strains of coronaviruses
+    category: biology/viruses/coronavirus
+    datecreated: '2020-04-22T18:00:00-00:00'
+    tags:
+      - '#coronavirus'
+      - '#covid19'
+      - '#papers'
+
+  - url: /ipfs/bafykbzacedpku3duvucdb3nfbfrlirxqjeas4sld4phi2qti6tfrwxadnr4fa
+    title: Standards for ventilators/PPE (COVID19)
+    description: >
+      International Technical Standards
+      for ventilators and medical PPE in the fight
+      for victims of COVID-2019
+    category: biology/viruses/coronavirus
+    datecreated: '2020-04-23T18:00:00-00:00'
+    tags:
+      - '#coronavirus'
+      - '#covid19'
+      - '#papers'

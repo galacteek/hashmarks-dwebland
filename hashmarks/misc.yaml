@@ -1,0 +1,80 @@
+hashmarks:
+  - url: /ipfs/bafybeiccfclkdtucu6y4yc5cpr6y3yuinr67svmii46v5cfcrkp47ihehy
+    title: Project Apollo Archives
+    datecreated: '2019-04-23T00:00:00-00:00'
+    tags:
+      - '#apollo'
+
+  - url: /ipfs/bafybeiccfclkdtucu6y4yc5cpr6y3yuinr67svmii46v5cfcrkp47ihehy/frontend/frontend.html
+    title: Project Apollo Archives (frontend)
+    datecreated: '2019-04-23T00:00:00-00:00'
+    tags:
+      - '#apollo'
+
+  - url: /ipfs/bafybeidgfxckpk73dcott24uqh7ybuj43nmiehm4vpynrspjzz46omzmzy
+    title: A Declaration of the Independence of Cyberspace
+    datecreated: '2018-11-24T00:00:00-00:00'
+    tags:
+      - '#cyberspace'
+
+  - url: /ipfs/bafybeifwiycnzwen4e7gu5opjd6uo3pnvias4gxducup7tyavlrbte5rka
+    title: "Play atari 2600 games (JS emulator)"
+    category: computers/atari
+    datecreated: '2020-04-26T12:00:00-00:00'
+    tags:
+      - '#atari'
+      - '#emulator'
+
+  - url: /ipfs/bafybeia4o4gqmuzqp2bekj7dhp6xdegih27x5zolrlkjepeen2tnqr4aia
+    title: "Papers We Love (14/04/2020)"
+    description: "Papers We Love (snapshot: 14/04/2020)"
+    datecreated: '2020-04-15T12:00:00-00:00'
+    category: computers/papers
+
+  - url: /ipfs/bafybeif6fbogj4sog6hkbvsdktotjbumcmotnwky2z3cmc7imgbr27mc4u
+    title: XKCD
+    datecreated: '2018-08-04T12:00:00-00:00'
+    category: misc
+    tags:
+      - '#xkcd'
+
+  - url: /ipfs/bafybeiboj7xkq4jxxbs5r65ditneqanwltqfzis4f4ii2u5bu36twro3yy
+    title: The World Wide Web History Project
+    description: >
+      The World Wide Web History Project is a collaborative
+      effort to record and publish the history of the World Wide Web
+      and its roots in hypermedia and networking
+    datecreated: '2018-08-04T12:00:00-00:00'
+    category: misc
+    tags:
+      - '#www-history'
+
+  - url: /ipfs/bafybeigjclagrxfzkjxfqwzya62kksogeu6lisyr3ghrtthofp3p32nll4
+    title: Old Internet files
+    datecreated: '2018-08-04T12:00:00-00:00'
+    category: misc
+    tags:
+      - '#archives'
+
+  - url: /ipfs/bafybeig4fh3awn2dnyj4xxcbhuupowr6dg4nyfh7f4ra5a5oig5qnpfzda
+    title: Usenet Archives
+    datecreated: '2018-08-04T12:00:00-00:00'
+    category: misc
+    tags:
+      - '#archives'
+
+  - url: /ipfs/bafybeiafi26c3w5a4iew6auzxv6s2nbxiqh7kqjflfbc7a4vnequkf3wtq/its-time-for-the-permanent-web.html
+    title: "It's time for the distributed, permanent web"
+    datecreated: '2019-04-26T12:00:00-00:00'
+    category: misc
+    tags:
+      - '#ipfs'
+      - '#article'
+
+  - url: /ipfs/bafybeidi22wg4qkbmkbnlgzixpz5x6bcbdvl2zbxuqc2zwnbfszkvbgkvy
+    title: "The next Internet revolution"
+    datecreated: '2019-04-26T12:00:00-00:00'
+    category: misc
+    tags:
+      - '#ipfs'
+      - '#article'
