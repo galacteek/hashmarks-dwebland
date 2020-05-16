@@ -36,3 +36,10 @@ hashmarks:
       - '#ens'
       - '#web3'
       - '#wallet'
+
+  - url: ens://randomplanetfacts.eth
+    title: Random Planet Facts
+    category: ethereum/ens/dwebsites
+    tags:
+      - '#ens'
+      - '#planets'

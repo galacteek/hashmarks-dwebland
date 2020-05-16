@@ -1,12 +1,14 @@
 hashmarks:
   - url: /ipfs/bafybeidlyxw4vdcdoqavujynfyzw6tvyj73kqfqim6kql6qccsk4pykf5u
     title: "IPFS simply explained (video)"
+    category: ipfs/videos
     tags:
       - '#ipfs'
       - '#video'
 
   - url: /ipfs/bafybeihg6yjcy6q4q2a6y4wr7i4hhkmt65wq6l5zm3hns7skwrtlxdkl4q
     title: "IPFS and Filecoin (video)"
+    category: ipfs/videos
     tags:
       - '#ipfs'
       - '#filecoin'
