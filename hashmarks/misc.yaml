@@ -78,3 +78,10 @@ hashmarks:
     tags:
       - '#ipfs'
       - '#article'
+
+  - url: /ipfs/bafybeib6e4t42arbjdwjzal74wmps6t6rrv2rnnpecwp4yjxifegmllgly
+    title: "The Anarchist Library"
+    datecreated: '2020-08-29T12:00:00-00:00'
+    category: misc
+    tags:
+      - '#anarchism'
