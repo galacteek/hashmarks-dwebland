@@ -1,0 +1,11 @@
+hashmarks:
+  - url: /ipfs/bafybeifeavumbpd6gkh2dn5wvtwf3bc6lovvkqru6gn7ip4z27a5nqpvg4
+    title: qDesk (v0.9.4)
+    description: Cross-Platform Trustless Social Network
+    category: ipfs/social
+    datecreated: '2019-10-20T00:00:00-00:00'
+    schemepreferred: dweb
+    tags:
+      - '#qdesk'
+      - '#dapp'
+      - '#social'
