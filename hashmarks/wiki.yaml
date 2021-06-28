@@ -1,0 +1,78 @@
+hashmarks:
+  - url: /ipfs/bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze
+    title: Wikipedia mirror (English, 2021-03-08 snapshot)
+    description: Distributed wikipedia mirror (english)
+    comment: "Snapshot date: 2021-03-08"
+    date: "2021-03-08T18:00:00-00:00"
+    category: wikipedia
+    icon: /ipfs/QmVyP28H1r9DutKBEo7hpeV3ccPDuz2sJ4F4dcQwvsjMtd
+    tags:
+      - '#wikipedia'
+      - '#wiki'
+    objtags:
+      - '#wikipedia-en'
+
+  - url: /ipfs/bafybeieuutdavvf55sh3jktq2dpi2hkle6dtmebe7uklod3ramihyf3xa4
+    title: Wikipedia mirror (Turkish, 2021-02-19 snapshot)
+    description: Distributed wikipedia mirror (turkish)
+    comment: "Snapshot date: 2021-02-19"
+    date: "2021-02-19T18:00:00-00:00"
+    category: wikipedia
+    icon: /ipfs/QmVyP28H1r9DutKBEo7hpeV3ccPDuz2sJ4F4dcQwvsjMtd
+    tags:
+      - '#wikipedia'
+      - '#wiki'
+    objtags:
+      - '#wikipedia-tr'
+
+  - url: /ipfs/bafybeib66xujztkiq7lqbupfz6arzhlncwagva35dx54nj7ipyoqpyozhy
+    title: "Wikipedia mirror (Myanmar, 2021-02-22 snapshot)"
+    description: "Distributed wikipedia mirror (myanmar)"
+    comment: "Snapshot date: 2021-02-22"
+    date: "2021-02-22T18:00:00-00:00"
+    category: wikipedia
+    icon: /ipfs/QmVyP28H1r9DutKBEo7hpeV3ccPDuz2sJ4F4dcQwvsjMtd
+    tags:
+      - '#wikipedia'
+      - '#wiki'
+    objtags:
+      - '#wikipedia-my'
+
+  - url: /ipfs/bafybeih4a6ylafdki6ailjrdvmr7o4fbbeceeeuty4v3qyyouiz5koqlpi
+    title: "Wikipedia mirror (Arabic, 2021-03-26 snapshot)"
+    description: "Distributed wikipedia mirror (arabic)"
+    comment: "Snapshot date: 2021-03-26"
+    date: "2021-03-26T18:00:00-00:00"
+    category: wikipedia
+    icon: /ipfs/QmVyP28H1r9DutKBEo7hpeV3ccPDuz2sJ4F4dcQwvsjMtd
+    tags:
+      - '#wikipedia'
+      - '#wiki'
+    objtags:
+      - '#wikipedia-ar'
+
+  - url: /ipfs/bafybeiazgazbrj6qprr4y5hx277u4g2r5nzgo3jnxkhqx56doxdqrzms6y
+    title: "Wikipedia mirror (Chinese, 2021-03-16 snapshot)"
+    description: "Distributed wikipedia mirror (chinese)"
+    comment: "Snapshot date: 2021-03-16"
+    date: "2021-03-16T18:00:00-00:00"
+    category: wikipedia
+    icon: /ipfs/QmVyP28H1r9DutKBEo7hpeV3ccPDuz2sJ4F4dcQwvsjMtd
+    tags:
+      - '#wikipedia'
+      - '#wiki'
+    objtags:
+      - '#wikipedia-zh'
+
+  - url: /ipfs/bafybeieto6mcuvqlechv4iadoqvnffondeiwxc2bcfcewhvpsd2odvbmvm
+    title: "Wikipedia mirror (Russian, 2021-03-25 snapshot)"
+    description: "Distributed wikipedia mirror (russian)"
+    comment: "Snapshot date: 2021-03-25"
+    date: "2021-03-25T18:00:00-00:00"
+    category: wikipedia
+    icon: /ipfs/QmVyP28H1r9DutKBEo7hpeV3ccPDuz2sJ4F4dcQwvsjMtd
+    tags:
+      - '#wikipedia'
+      - '#wiki'
+    objtags:
+      - '#wikipedia-ru'
